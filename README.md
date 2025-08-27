@@ -6,17 +6,16 @@ In this project, we will develop a basic predictive model for customer churn usi
 
 #### Steps to Build the Customer Churn Prediction Model
 
-1. Import necessary libraries  
-2. Load the dataset  
-3. Perform exploratory data analysis (EDA)  
-4. Detect outliers using the Interquartile Range (IQR) method  
-5. Clean and preprocess the data  
-6. Apply one-hot encoding to categorical variables  
-7. Rearrange columns for better organization  
-8. Scale features to normalize data  
-9. Select the most relevant features  
-10. Build and evaluate models using:  
-    - Logistic Regression  
-    - Support Vector Classifier (SVC)  
-    - Decision Tree Classifier  
-    - K-Nearest Neighbors (KNN) Classifier  
+- Importing Libraries
+- Loading Dataset
+- Exploratory Data Analysis
+- Outliers using IQR method
+- Cleaning and Transforming Data
+  - One-hot Encoding
+  - Rearranging Columns
+  - Feature Scaling
+  - Feature Selection
+- Prediction using Logistic Regression
+- Prediction using Support Vector Classifier
+- Prediction using Decision Tree Classifier
+- Prediction using KNN Classifier
